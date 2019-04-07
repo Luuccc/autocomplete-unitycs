@@ -1,0 +1,26 @@
+{
+  "name": "autocomplete-unitycs",
+  "main": "./lib/main",
+  "version": "0.1.3",
+  "description": "Autcomplete package for developing in Unity.",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "unity",
+    "unityengine",
+    "boilerplate"
+  ],
+  "repository": "https://github.com/Luuccc/autocomplete-unitycs",
+  "author": "Luc Heaton <contact@lucheaton.com> (https://lucheaton.com)",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
