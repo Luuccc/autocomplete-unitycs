@@ -1,4 +1,3 @@
-#autocomplete-unitycs
 An Atom package to improve development time for Unity projects.
 
 ![](https://i.imgur.com/d6D4O0F.gif)
